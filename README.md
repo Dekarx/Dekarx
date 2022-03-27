@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dekarx
 - 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning HTML, CSS, JavaScript,React
+- 🌱 I’m currently learning HTML, CSS, JavaScript ,React ,Axios, Formik, Yup, React-Memo
 - 📫 How to reach me -> goktux200@gmail.com
 
 <!---
